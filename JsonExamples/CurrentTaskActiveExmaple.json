@@ -1,0 +1,65 @@
+{
+  "status": "stopped",
+  "taskTime": {
+    "user": 1,
+    "history": [
+      {
+        "id": 123,
+        "time": 600,
+        "previousTime": 0,
+        "action": "TIMER",
+        "source": "not-set",
+        "createdAt": "2024-08-13 16:33:00",
+        "createdBy": 1
+      }
+    ],
+    "lockReasons": [],
+    "isLocked": false,
+    "manualTime": 0,
+    "id": 132,
+    "date": "2024-08-13",
+    "time": 600,
+    "timerTime": 600,
+    "pastDateTime": 0,
+    "task": {
+      "iteration": "***",
+      "projects": [
+        "**:***",
+        "**:***"
+      ],
+      "attributes": {
+        "Task status.": "***",
+        "Domain": "***",
+        "Work type": "***"
+      },
+      "completed": false,
+      "id": "**:***",
+      "type": "***",
+      "name": "***",
+      "url": "https://app.asana.com/0/***/***/f",
+      "status": "open",
+      "labels": [
+        "***",
+        "***"
+      ],
+      "createdAt": "2024-05-30 17:54:40",
+      "time": {
+        "total": 600,
+        "users": {
+          "1": 100,
+          "2": 200,
+          "3": 300
+        },
+        "timerTime": 600
+      },
+      "assignees": [
+        {
+          "accountId": "**:***",
+          "accountName": "Mikael Máni Jónsson",
+          "userId": 1
+        }
+      ]
+    },
+    "createdAt": "2024-08-13 16:33:00"
+  }
+}
