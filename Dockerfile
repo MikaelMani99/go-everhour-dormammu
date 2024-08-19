@@ -8,7 +8,7 @@ COPY src/go.mod src/go.sum ./
 RUN go mod download
 
 # Copy the source from the current directory to the Working Directory inside the container
-COPY src/* ./
+COPY src/ ./
 
 # Build the Go app
 RUN go build -o main .
